@@ -1,0 +1,11 @@
+:root {
+    --white: #FFFDF6;
+    --offwhite: #FAF6E9;
+    --darkwhite: #ECE8D9;
+    --gray: #494949;
+    --orange: #f8a978;
+    --offorange: #ffc5a1;
+    --blue: #badfdb;
+
+    /*--font-one: 'name', fallback;*/
+}

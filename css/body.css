@@ -1,0 +1,48 @@
+body {
+    background: var(--darkwhite)
+}
+
+/* Desktop PC */
+​
+/*Insert all your CSS for main website here
+Then anything that needs to be queried gets dropped below*/
+​
+/* Responsive */
+/* @media screen and (max-width: 1159px) {
+​.body {
+    background: var(--darkwhite)
+}
+}
+/* Ipad Pro COMPLETE */
+/* @media screen and (max-width: 1024px) {
+​
+} */
+/* Ipad COMPLETE */
+/* @media screen and (max-width: 769px) {
+​
+} */
+​
+/* Samsung Moto X */
+/* @media screen and (max-width: 725px) {
+​
+} */
+/* Iphone 6/7/8 Plus COMPLETE */
+/* @media screen and (max-width: 414px) {
+​
+} */
+/* Pixel 2 & Pixel 2 XL COMPLETE */
+/* @media screen and (max-width: 412px) {
+​
+} */
+/* iPhone 6/7/8 & iPhone X COMPLETE */
+/* @media screen and (max-width: 400px) {
+​
+} */
+/* Galaxy S5 */
+/* @media screen and (max-width: 375px) {
+​
+} */
+/* Iphone 5/SE */
+/* @media screen and (max-width: 330px) {
+
+} */
