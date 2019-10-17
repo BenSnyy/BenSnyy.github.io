@@ -1,3 +1,4 @@
-/* #navBar {
-    margin-left: 75%;
-} */
+#navBar {
+    background-color: var(--white);
+    text-align: left;
+}

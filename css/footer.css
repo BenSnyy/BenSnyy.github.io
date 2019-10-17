@@ -1,0 +1,9 @@
+.footer {
+    left: 0;
+    bottom: 0;
+    height: 4em;
+    width: 100%;
+    background-color: var(--darkblue);
+    color: var(--gray);
+    text-align: center;
+ }

@@ -1,0 +1,10 @@
+.contac {
+    color: var(--darkblue);
+    font-style: bold;
+    font-size: 5em;
+}
+
+.btn {
+    background-color: var(--blue);
+    color: var(--darkblue);
+}
